@@ -2564,7 +2564,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
         <t pos="V">рӧдмыны</t>
       </tg>
       <xg>
-        <x>ай да отир пондіс йывны! ай да славнӧй миян край</x>
+        <x>ай да отир пондіс йывны. ай да славнӧй миян край</x>
         <src>(частушкаысь)</src>
         <xt/>
       </xg>
@@ -2769,7 +2769,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
         <t pos="V">велӧдны кодӧскӧ мыйыськӧ.</t>
       </tg>
       <xg>
-        <x>тэ эн кешитчы, а висьтав, мыля дышкульӧ этадз пӧртчин?!</x>
+        <x>тэ эн кешитчы, а висьтав, мыля дышкульӧ этадз пӧртчин?.</x>
         <src>(Ф.Истомин)</src>
         <xt/>
       </xg>
@@ -3257,7 +3257,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
     <mg>
       <tg xml:lang="kpv">
         <t pos="V">немсӧ</t>
-        <t pos="V">абусӧ уджавны; сьӧдас уджавны</t>
+        <t pos="V">абусӧ уджавны, сьӧдас уджавны</t>
       </tg>
     </mg>
   </e>
@@ -3522,7 +3522,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
         <t pos="V">куснясьны</t>
       </tg>
       <xg>
-        <x>кӧстасьӧ-сералӧ; спинаӧ оз кӧстась</x>
+        <x>кӧстасьӧ-сералӧ, спинаӧ оз кӧстась</x>
         <xt/>
       </xg>
     </mg>
@@ -4021,7 +4021,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
         <t pos="V">песовтны</t>
       </tg>
       <xg>
-        <x>ме тэнчит корпатӧ мургыльта!</x>
+        <x>ме тэнчит корпатӧ мургыльта.</x>
         <src>(Ф.Истомин)</src>
         <xt/>
       </xg>
@@ -4419,7 +4419,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
     </lg>
     <mg>
       <tg xml:lang="kpv">
-        <t pos="V">бырӧдны; весавны</t>
+        <t pos="V">бырӧдны, весавны</t>
         <t pos="V">мед нинӧм оз коль</t>
       </tg>
     </mg>
@@ -4536,7 +4536,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
         <t pos="V">сӧка иддза</t>
       </tg>
       <xg>
-        <x>нявскӧ-вундӧ жнейка. чу!.. перыта уджалӧ</x>
+        <x>нявскӧ-вундӧ жнейка. чу... перыта уджалӧ</x>
         <src>(И.Гагарин)</src>
         <xt/>
       </xg>
@@ -5570,8 +5570,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
         <xt>ном моз зыньгыны</xt>
       </xg>
       <xg>
-        <x>эн пиксы!</x>
-        <xt>эн низгы!</xt>
+        <x>эн пиксы.</x>
+        <xt>эн низгы.</xt>
       </xg>
     </mg>
     <mg>
@@ -6305,7 +6305,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
         <t pos="V">удзӧдны</t>
       </tg>
       <xg>
-        <x>паськӧм рудзтыны; нем керны, рудзтас студотрядсӧ</x>
+        <x>паськӧм рудзтыны, нем керны, рудзтас студотрядсӧ</x>
         <src>(Ф.Истомин)</src>
         <xt/>
       </xg>
@@ -7875,7 +7875,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
         <t pos="V">йӧктыны да с.в.</t>
       </tg>
       <xg>
-        <x>но и бес! видзӧт кытшӧм эд, кыдз частитӧ сылӧн кок!</x>
+        <x>но и бес. видзӧт кытшӧм эд, кыдз частитӧ сылӧн кок.</x>
         <src>(И.Минин)</src>
         <xt/>
       </xg>
@@ -7932,7 +7932,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
       </tg>
       <xg>
         <x>немись чидны</x>
-        <xt>немысь шогсьыны, эн чид, быдӧс лоас бур! эн шогав, ставыс лоас бур!</xt>
+        <xt>немысь шогсьыны, эн чид, быдӧс лоас бур. эн шогав, ставыс лоас бур.</xt>
       </xg>
     </mg>
   </e>
@@ -8506,7 +8506,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
         <t pos="V">клопнитны.</t>
       </tg>
       <xg>
-        <x>и-ик! кокнам топнита да кинам шовнита</x>
+        <x>и-ик. кокнам топнита да кинам шовнита</x>
         <src>(М.Лихачев)</src>
         <xt/>
       </xg>
