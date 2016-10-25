@@ -124,7 +124,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
       <tg xml:lang="kpv">
         <t pos="N">зыбун</t>
         <t pos="N">нюраин</t>
-        <t pos="N">уль видз;</t>
+        <t pos="N">уль видз</t>
       </tg>
     </mg>
     <mg>
@@ -422,7 +422,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
     <mg>
       <tg xml:lang="kpv">
         <t pos="N">моздор пес</t>
-        <t pos="N">палич;</t>
+        <t pos="N">палич</t>
       </tg>
     </mg>
     <mg>
@@ -1973,8 +1973,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
         <xt>потлытӧм горш</xt>
       </xg>
       <xg>
-        <x>дзезтӧ тырт!</x>
-        <xt>рушкутӧ тырт!</xt>
+        <x>дзезтӧ тырт.</x>
+        <xt>рушкутӧ тырт.</xt>
       </xg>
     </mg>
   </e>
@@ -2197,8 +2197,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
         <t pos="N">дзодзув</t>
       </tg>
       <xg>
-        <x>дзӧдзыв син!</x>
-        <xt>гадина!</xt>
+        <x>дзӧдзыв син.</x>
+        <xt>гадина.</xt>
       </xg>
     </mg>
   </e>
@@ -3819,7 +3819,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
         <t pos="N">картупеля шаньга</t>
       </tg>
       <xg>
-        <x>тачи-гыг, тачи-гыг! бабӧ керӧма кулик</x>
+        <x>тачи-гыг, тачи-гыг. бабӧ керӧма кулик</x>
         <src>(челядь сьыланысь)</src>
         <xt/>
       </xg>
@@ -6835,8 +6835,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
         <t pos="N">вогыль</t>
       </tg>
       <xg>
-        <x>сюггетӧ убирайт!</x>
-        <xt>лёзьястӧ вешты!</xt>
+        <x>сюггетӧ убирайт.</x>
+        <xt>лёзьястӧ вешты.</xt>
       </xg>
     </mg>
   </e>
@@ -7215,8 +7215,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
         <t pos="N">вотчысьяслы сиӧм</t>
       </tg>
       <xg>
-        <x>ась лоӧ тырдоз!</x>
-        <xt>медым сюрис доз тырыд!</xt>
+        <x>ась лоӧ тырдоз.</x>
+        <xt>медым сюрис доз тырыд.</xt>
       </xg>
     </mg>
   </e>
@@ -7601,7 +7601,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
         <t pos="N">гымлӧн лыйыштӧм</t>
       </tg>
       <xg>
-        <x>да ӧдззис, ӧдззис небо кудсис чарньӧввезӧн коявны шер!</x>
+        <x>да ӧдззис, ӧдззис небо кудсис чарньӧввезӧн коявны шер.</x>
         <src>(Ф.Истомин)</src>
         <xt/>
       </xg>
