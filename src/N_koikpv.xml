@@ -168,7 +168,20 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="N">бабашорика / бабашӧрика</l>
+      <l pos="N">бабашорика</l>
+      <stg>
+        <st>бабашорика / бабашӧрика</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="N">полокалӧ</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">бабашӧрика</l>
       <stg>
         <st>бабашорика / бабашӧрика</st>
       </stg>
@@ -414,7 +427,26 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="N">беремё / беремя</l>
+      <l pos="N">беремё</l>
+      <stg>
+        <st>беремё / беремя</st>
+	</stg>
+	</lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="N">моздор пес</t>
+	<t pos="N">палич</t>
+	</tg>
+	</mg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="N">чукӧр (лунвыв сёрнисикасъясын)</t>
+	</tg>
+	</mg>
+	</e>
+<e>
+    <lg>
+      <l pos="N">беремя</l>
       <stg>
         <st>беремё / беремя</st>
       </stg>
@@ -760,9 +792,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="N">веж ii</l>
+      <l hid="Hom2" pos="N">веж</l>
       <stg>
-        <st>веж ii</st>
+        <st>веж</st>
       </stg>
     </lg>
     <mg>
@@ -999,9 +1031,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="N">вон i</l>
+      <l pos="N">вон</l>
       <stg>
-        <st>вон i</st>
+        <st>вон</st>
       </stg>
     </lg>
     <mg>
@@ -1116,7 +1148,20 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="N">вӧй/вӧйтурун</l>
+      <l pos="N">вӧй</l>
+      <stg>
+        <st>вӧй/вӧйтурун</st>
+	</stg>
+	</lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="N">воййыв (турун ним)</t>
+	</tg>
+	</mg>
+	</e>
+  <e>
+    <lg>
+      <l pos="N">вӧйтурун</l>
       <stg>
         <st>вӧй/вӧйтурун</st>
       </stg>
@@ -1944,9 +1989,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="N">дзез i</l>
+      <l hid="Hom1" pos="N">дзез</l>
       <stg>
-        <st>дзез i</st>
+        <st>дзез</st>
       </stg>
     </lg>
     <mg>
@@ -1958,9 +2003,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="N">дзез ii</l>
+      <l hid="Hom2" pos="N">дзез</l>
       <stg>
-        <st>дзез ii</st>
+        <st>дзез</st>
       </stg>
     </lg>
     <mg>
@@ -2491,9 +2536,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="N">етш i</l>
+      <l hid="Hom1" pos="N">етш</l>
       <stg>
-        <st>етш i</st>
+        <st>етш</st>
       </stg>
     </lg>
     <mg>
@@ -2524,7 +2569,25 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="N">жерег/жерех</l>
+      <l pos="N">жерег</l>
+      <stg>
+        <st>жерег/жерех</st>
+	</stg>
+	</lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="N">жерех</t>
+        <t pos="N">чери сикас</t>
+	</tg>
+      <xg>
+        <x>ён кыдз жерех</x>
+        <xt>зэв кыз морт</xt>
+	</xg>
+	</mg>
+	</e>
+  <e>
+    <lg>
+      <l pos="N">жерех</l>
       <stg>
         <st>жерег/жерех</st>
       </stg>
@@ -2643,7 +2706,20 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="N">заплот / заплод</l>
+      <l pos="N">заплот</l>
+      <stg>
+        <st>заплот / заплод</st>
+	</stg>
+	</lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="N">керъясысь вӧчӧм костъястӧм потшӧс</t>
+	</tg>
+	</mg>
+	</e>
+  <e>
+    <lg>
+      <l pos="N">заплод</l>
       <stg>
         <st>заплот / заплод</st>
       </stg>
@@ -2963,7 +3039,27 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="N">йижоль / йыжоль</l>
+      <l pos="N">йижоль</l>
+      <stg>
+        <st>йижоль / йыжоль</st>
+	</stg>
+	</lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="N">йинёнь</t>
+        <t pos="N">йи чунь</t>
+        <t pos="N">йи сыр</t>
+	</tg>
+      <xg>
+        <x>йыжоллез крыша дорын тыр</x>
+        <src>(Г.Бачева)</src>
+        <xt/>
+	</xg>
+	</mg>
+	</e>
+  <e>
+    <lg>
+      <l pos="N">йыжоль</l>
       <stg>
         <st>йижоль / йыжоль</st>
       </stg>
@@ -3191,7 +3287,24 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="N">калег / калиг</l>
+      <l pos="N">калег</l>
+      <stg>
+        <st>калег / калиг</st>
+	</stg>
+	</lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="N">галанка</t>
+	</tg>
+      <xg>
+        <x>калег юр</x>
+        <xt>шырӧм юра</xt>
+	</xg>
+	</mg>
+	</e>
+  <e>
+    <lg>
+      <l pos="N">калиг</l>
       <stg>
         <st>калег / калиг</st>
       </stg>
@@ -3529,9 +3642,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="N">коли i</l>
+      <l hid="Hom1" pos="N">коли</l>
       <stg>
-        <st>коли i</st>
+        <st>коли</st>
       </stg>
     </lg>
     <mg>
@@ -3809,7 +3922,25 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="N">кулиг / кулик</l>
+      <l pos="N">кулиг</l>
+      <stg>
+        <st>кулиг / кулик</st>
+	</stg>
+	</lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="N">картупеля шаньга</t>
+	</tg>
+      <xg>
+        <x>тачи-гыг, тачи-гыг. бабӧ керӧма кулик</x>
+        <src>(челядь сьыланысь)</src>
+        <xt/>
+	</xg>
+	</mg>
+	</e>
+  <e>
+    <lg>
+      <l pos="N">кулик</l>
       <stg>
         <st>кулиг / кулик</st>
       </stg>
@@ -4167,9 +4298,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="N">кӧдзыв i</l>
+      <l hid="Hom1" pos="N">кӧдзыв</l>
       <stg>
-        <st>кӧдзыв i</st>
+        <st>кӧдзыв</st>
       </stg>
     </lg>
     <mg>
@@ -4184,9 +4315,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="N">кӧдзыв ii</l>
+      <l hid="Hom2" pos="N">кӧдзыв</l>
       <stg>
-        <st>кӧдзыв ii</st>
+        <st>кӧдзыв</st>
       </stg>
     </lg>
     <mg>
@@ -5443,7 +5574,21 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="N">ошсьӧктан / ошсьӧктантурун</l>
+      <l pos="N">ошсьӧктан</l>
+      <stg>
+        <st>ошсьӧктан / ошсьӧктантурун</st>
+	</stg>
+	</lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="N">лудік турун</t>
+        <t pos="N">папоротник</t>
+	</tg>
+	</mg>
+	</e>
+   <e>
+    <lg>
+      <l pos="N">ошсьӧктантурун</l>
       <stg>
         <st>ошсьӧктан / ошсьӧктантурун</st>
       </stg>
@@ -5990,7 +6135,26 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="N">проглаз / проглас</l>
+      <l pos="N">проглаз</l>
+      <stg>
+        <st>проглаз / проглас</st>
+	</stg>
+	</lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="N">музыка шылад</t>
+        <t pos="N">мотив.</t>
+	</tg>
+      <xg>
+        <x>вдруг орис проглас эта, залыс минута ни чӧлӧ, мӧдікӧ…</x>
+        <src>(М.Вавилин)</src>
+        <xt/>
+	</xg>
+	</mg>
+	</e>
+  <e>
+    <lg>
+      <l pos="N">проглас</l>
       <stg>
         <st>проглаз / проглас</st>
       </stg>
@@ -6208,7 +6372,25 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="N">седова / седола</l>
+      <l pos="N">седова</l>
+      <stg>
+        <st>седова / седола</st>
+	</stg>
+	</lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="N">сёр</t>
+	</tg>
+      <xg>
+        <x>курӧгыс и подавно кай – сія кӧть седола вылісь борд йылас лэдзчӧ</x>
+        <src>(В.Климов)</src>
+        <xt/>
+	</xg>
+	</mg>
+	</e>
+  <e>
+    <lg>
+      <l pos="N">седола</l>
       <stg>
         <st>седова / седола</st>
       </stg>
@@ -6794,7 +6976,20 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="N">сэсьодёрлун / сэсьудёрлун</l>
+      <l pos="N">сэсьодёрлун</l>
+      <stg>
+        <st>сэсьодёрлун / сэсьудёрлун</st>
+	</stg>
+	</lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="N">сэсь войдӧрлун (войвывса сёрнисикасъясын)</t>
+	</tg>
+	</mg>
+	</e>
+  <e>
+    <lg>
+      <l pos="N">сэсьудёрлун</l>
       <stg>
         <st>сэсьодёрлун / сэсьудёрлун</st>
       </stg>
@@ -7078,7 +7273,25 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="N">туроп / турӧп</l>
+      <l pos="N">туроп</l>
+      <stg>
+        <st>туроп / турӧп</st>
+	</stg>
+	</lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="N">турӧб</t>
+	</tg>
+      <xg>
+        <x>туроп кылыс не быд мортлӧ вежӧртана – туропӧн комиэс шуӧны падера, пурга</x>
+        <src>(В.Климов)</src>
+        <xt/>
+	</xg>
+	</mg>
+	</e>
+  <e>
+    <lg>
+      <l pos="N">турӧп</l>
       <stg>
         <st>туроп / турӧп</st>
       </stg>
@@ -7741,9 +7954,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="N">чикись i</l>
+      <l hid="Hom1" pos="N">чикись</l>
       <stg>
-        <st>чикись i</st>
+        <st>чикись</st>
       </stg>
     </lg>
     <mg>
@@ -7754,9 +7967,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="N">чикись ii</l>
+      <l hid="Hom2" pos="N">чикись</l>
       <stg>
-        <st>чикись ii</st>
+        <st>чикись</st>
       </stg>
     </lg>
     <mg>
@@ -7987,9 +8200,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="N">шогмӧм i</l>
+      <l hid="Hom1" pos="N">шогмӧм</l>
       <stg>
-        <st>шогмӧм i</st>
+        <st>шогмӧм</st>
       </stg>
     </lg>
     <mg>
@@ -8000,9 +8213,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="N">шогмӧм ii</l>
+      <l hid="Hom2" pos="N">шогмӧм</l>
       <stg>
-        <st>шогмӧм ii</st>
+        <st>шогмӧм</st>
       </stg>
     </lg>
     <mg>

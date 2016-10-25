@@ -78,7 +78,27 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="Adv">асмоз(нас)</l>
+      <l pos="Adv">асмоз</l>
+      <stg>
+        <st>асмоз(нас)</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="Adv">аснаукӧн</t>
+        <t pos="Adv">ачыс</t>
+        <t pos="Adv">аслысног</t>
+      </tg>
+      <xg>
+        <x>быд геройыс асмознас кошшӧ олӧмас туйсӧ</x>
+        <src>(В.Пахорукова)</src>
+        <xt/>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">асмознас</l>
       <stg>
         <st>асмоз(нас)</st>
       </stg>

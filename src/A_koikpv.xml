@@ -181,7 +181,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
     <mg>
       <tg xml:lang="kpv">
         <t pos="A">мусса</t>
-        <t pos="A">дона (челядь йылысь сёрнитігӧн)</t>
+        <t pos="A" re="челядь йылысь сёрнитігӧн">дона</t>
       </tg>
       <xg>
         <x>анну, белеюшко, эн горзы, ме чожа локта</x>
@@ -244,7 +244,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
     </lg>
     <mg>
       <tg xml:lang="kpv">
-        <t pos="A">тыра (кӧбыла йылысь)</t>
+        <t pos="A" re="кӧбыла йылысь">тыра</t>
       </tg>
       <xg>
         <x>эта кӧбылаыс берёжа</x>
@@ -281,7 +281,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
     <mg>
       <tg xml:lang="kpv">
         <t pos="A">быгыльтан</t>
-        <t pos="A">валяйтчан (пӧжасиг вӧсньӧдчан)</t>
+        <t pos="A" re="пӧжасиг вӧсньӧдчан">валяйтчан</t>
       </tg>
     </mg>
   </e>
@@ -389,14 +389,14 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="A">веж i</l>
+      <l pos="A">веж</l>
       <stg>
-        <st>веж i</st>
+        <st>веж</st>
       </stg>
     </lg>
     <mg>
       <tg xml:lang="kpv">
-        <t pos="A">виж.</t>
+        <t pos="A">виж</t>
       </tg>
       <xg>
         <x>вайис тӧдвыланым важсӧ веж масісьӧн менам пи</x>
@@ -475,7 +475,30 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="A">виньӧр(ик)</l>
+      <l pos="A">виньӧр</l>
+      <stg>
+        <st>виньӧр(ик)</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="A">омӧльтчӧм</t>
+        <t pos="A">блед чужӧма</t>
+      </tg>
+      <xg>
+        <x>виньӧр морт</x>
+        <xt>вӧсняммӧм, омӧльтчӧм морт</xt>
+      </xg>
+      <xg>
+        <x>мунӧ виньӧрик зоночка сувтӧм вӧлӧн сьӧкыт туйӧ</x>
+        <src>(И.Минин)</src>
+        <xt/>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">виньӧрик</l>
       <stg>
         <st>виньӧр(ик)</st>
       </stg>
@@ -882,7 +905,31 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
-      <l pos="A">кульыслӧн / кульысвӧн</l>
+      <l pos="A">кульыслӧн</l>
+      <stg>
+        <st>кульыслӧн / кульысвӧн</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="A">пеж</t>
+        <t pos="A">пежӧсь</t>
+        <t pos="A">пӧганӧй</t>
+        <t pos="A">чӧртлӧн</t>
+      </tg>
+      <xg>
+        <x>кульысвӧн пиян.</x>
+        <xt>чӧртлӧн пи тэ.</xt>
+      </xg>
+      <xg>
+        <x>кульыслӧн пон.</x>
+        <xt>пеж пон.</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">кульысвӧн</l>
       <stg>
         <st>кульыслӧн / кульысвӧн</st>
       </stg>
@@ -1067,7 +1114,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
       <tg xml:lang="kpv">
         <t pos="A">абу тырвыйӧ</t>
         <t pos="A">абу дзонь</t>
-        <t pos="A">восьтӧм (банка да с.в.)</t>
+        <t pos="A" re="банка да с.в.">восьтӧм</t>
       </tg>
     </mg>
   </e>
@@ -1242,7 +1289,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
     </lg>
     <mg>
       <tg xml:lang="kpv">
-        <t pos="A">куслытӧм.</t>
+        <t pos="A">куслытӧм</t>
       </tg>
       <xg>
         <x>эта рытӧ любитӧм пондӧтчис. век кеж некусана любитӧм</x>
@@ -1513,7 +1560,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
     <mg>
       <tg xml:lang="kpv">
         <t pos="A">водзвывса</t>
-        <t pos="A">вӧвлӧм.</t>
+        <t pos="A">вӧвлӧм</t>
       </tg>
       <xg>
         <x>данько – пенсионер, одззася лесник</x>
@@ -1650,7 +1697,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
     <mg>
       <tg xml:lang="kpv">
         <t pos="A">костаӧсь</t>
-        <t pos="A">разалысь (кымӧръяс йылысь)</t>
+        <t pos="A" re="кымӧръяс йылысь">разалысь</t>
       </tg>
       <xg>
         <x>потшша кымӧррез мича одзын</x>
@@ -2022,9 +2069,10 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
         <t pos="A">тӧлктӧм</t>
         <t pos="A">вежӧртӧм</t>
         <t pos="A">йӧй</t>
+        <t pos="A">бубу</t>
       </tg>
       <xg>
-        <x>бубу. дугдӧ чавзыны, ылӧстӧммез.</x>
+        <x>дугдӧ чавзыны, ылӧстӧммез.</x>
         <src>(В.Климов)</src>
         <xt/>
       </xg>
