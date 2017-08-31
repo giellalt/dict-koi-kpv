@@ -25,6 +25,198 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 
   <e>
     <lg>
+      <l pos="A">мыйовӧй</l>
+      <stg>
+        <st>мыйовӧй</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="A">кутшӧм</t>
+        <t pos="A">мыйысь</t>
+      </tg>
+      <xg>
+        <x>няньыс мыйовӧй?</x>
+        <xt xml:lang="kpv">няньыс кутшӧм пызьысь?</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">быдса</l>
+      <stg>
+        <st>быдса</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="A">верстьӧ</t>
+      </tg>
+      <xg>
+        <x>быдса нывка</x>
+        <xt xml:lang="kpv">верстьӧ ныв</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">кипон</l>
+      <stg>
+        <st>кипон</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="A">кипомся</t>
+      </tg>
+      <xg>
+        <x>кипон удж, кипон кага</x>
+        <xt xml:lang="kpv">ветлытӧм на кага</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">кытшӧм</l>
+      <stg>
+        <st>кытшӧм</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="A">кутшӧм</t>
+      </tg>
+      <xg>
+        <x>кытшӧм муыс, сэтшӧм и сюыс</x>
+        <xt/>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">чож</l>
+      <stg>
+        <st>чож</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="A">тэрыб</t>
+        <t pos="A">перыд</t>
+      </tg>
+      <xg>
+        <x>чож вӧв</x>
+        <xt xml:lang="kpv">тэрыб вӧв</xt>
+      </xg>
+    </mg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="A">визув</t>
+        <t pos="A">збой</t>
+      </tg>
+      <xg>
+        <x>чож инька</x>
+        <xt xml:lang="kpv">збой нывбаба</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">чочком</l>
+      <stg>
+        <st>чочком</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="A">еджыд</t>
+      </tg>
+      <xg>
+        <x>пасьтавны чочком йӧрнӧс-вешъян</x>
+        <xt xml:lang="kpv">пасьтавны сӧстӧм дӧрӧм-гач</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">шадра</l>
+      <stg>
+        <st>шадра</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="A">сера</t>
+      </tg>
+      <xg>
+        <x>шадра чужӧм</x>
+        <xt xml:lang="kpv">сера чужӧм</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">шупыт</l>
+      <stg>
+        <st>шупыт</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="A">тэрыб</t>
+        <t pos="A">перыд</t>
+        <t pos="A">писькӧс</t>
+      </tg>
+      <xg>
+        <x>шупыт вӧв</x>
+        <xt xml:lang="kpv">тэрыб вӧв</xt>
+      </xg>
+    </mg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="A">гажакодь</t>
+        <t pos="A">юыштӧм</t>
+      </tg>
+      <xg>
+        <x>талун сія шупыт</x>
+        <xt xml:lang="kpv">талун сійӧ гажакодь</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">шӧма</l>
+      <stg>
+        <st>шӧма</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="A">шоча</t>
+      </tg>
+      <xg>
+        <x>шӧма ва</x>
+        <xt xml:lang="kpv">вина</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">ылӧса</l>
+      <stg>
+        <st>ылӧса</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="A">тӧлка</t>
+        <t pos="A">вежӧра</t>
+        <t pos="A">гӧгӧрвоысь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="A">абыз</l>
       <stg>
         <st>абыз</st>

@@ -25,6 +25,280 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 
   <e>
     <lg>
+      <l pos="Adv">кӧр</l>
+      <stg>
+        <st>кӧр</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="Adv">кор</t>
+        <t pos="Adv">кодыр</t>
+      </tg>
+      <xg>
+        <x>видзчись, кӧр не кӧ локтас</x>
+        <xt xml:lang="kpv">виччысь коркӧ-некоркӧ локтас</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">лунсӧ</l>
+      <stg>
+        <st>лунсӧ</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="Adv">луннас</t>
+        <t pos="Adv">лунын</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">лунӧн</l>
+      <stg>
+        <st>лунӧн</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="Adv">луннас</t>
+        <t pos="Adv">лунын</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">мукӧдкоста</l>
+      <stg>
+        <st>мукӧдкоста</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="Adv">корсюрӧ</t>
+        <t pos="Adv">мукӧд кадӧ</t>
+        <t pos="Adv">мукӧддырйи</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">мукӧдпыр</l>
+      <stg>
+        <st>мукӧдпыр</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="Adv">корсюрӧ</t>
+        <t pos="Adv">мукӧддырйи</t>
+      </tg>
+      <xg>
+        <x>мукӧдпыр меным нельки некӧр пуксьыштны</x>
+        <xt xml:lang="kpv">корсюрӧ мем весиг некор пуксьыштны</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">мыдзӧмувъя</l>
+      <stg>
+        <st>мыдзӧмувъя</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="Adv">мудзӧм вӧсна</t>
+      </tg>
+      <xg>
+        <x>мыдзӧмувъя мийӧ жагӧна оськалім ыббез бокӧт</x>
+        <src>(В.Баталов)</src>
+        <xt/>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">мӧдiгод</l>
+      <stg>
+        <st>мӧдiгод</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="Adv">локтан воӧ</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">мӧдiпыра</l>
+      <stg>
+        <st>мӧдiпыра</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="Adv">мӧдысь</t>
+        <t pos="Adv">мӧд пӧрйӧ</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">мӧдгод</l>
+      <stg>
+        <st>мӧдгод</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="Adv">локтан воӧ</t>
+      </tg>
+      <xg>
+        <x>медбы мӧдгод урожайыс омӧн вӧлі золотӧй</x>
+        <src>(С.Караваев)</src>
+        <xt/>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">весись</l>
+      <stg>
+        <st>весись</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="Adv">весьшӧрӧ</t>
+        <t pos="Adv">весь</t>
+        <t pos="Adv">напраснӧя</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">кекеркаӧн</l>
+      <stg>
+        <st>кекеркаӧн</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="Adv">некурвидзӧмӧн</t>
+        <t pos="Adv">лажвидзӧмӧн</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">кодувъя</l>
+      <stg>
+        <st>кодувъя</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="A">код</t>
+        <t pos="Adv">код юрӧн</t>
+        <t pos="Adv">кодӧн</t>
+      </tg>
+      <xg>
+        <x>кодувъя ме эг вежӧрт сійӧ</x>
+        <xt xml:lang="kpv">кодӧн ме эг гӧгӧрво сійӧс</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">кузьой</l>
+      <stg>
+        <st>кузьой</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="Adv">войбыд</t>
+        <t pos="Adv">вой чӧж</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">кӧбы</l>
+      <stg>
+        <st>кӧбы</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="Adv">эськӧ</t>
+        <t pos="Adv">кӧ</t>
+        <t pos="Adv">эськӧ… кӧ</t>
+      </tg>
+      <xg>
+        <x>кӧбы тӧді</x>
+        <xt xml:lang="kpv">тӧді кӧ эськӧ</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">мукӧдпыр</l>
+      <stg>
+        <st>мукӧдпыр</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="Adv">корсюрӧ</t>
+        <t pos="Adv">мукӧд кадӧ</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">мукӧдпырся</l>
+      <stg>
+        <st>мукӧдпырся</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="Adv">корсюрӧ</t>
+        <t pos="Adv">мукӧд кадӧ</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">быгыля</l>
+      <stg>
+        <st>быгыля</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="Adv">ыджыда</t>
+        <t pos="Adv">гырыся</t>
+      </tg>
+      <xg>
+        <x>воны шогді шеп кончайтӧ, ёнмӧ быгыля, оз чин</x>
+        <src>(С.Караваев)</src>
+        <xt/>
+      </xg>
+      <xg>
+        <x>быгыля каджа вӧв</x>
+        <xt xml:lang="kpv">паськыд кадджа вӧв</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="Adv">етша</l>
       <stg>
         <st>етша</st>

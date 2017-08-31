@@ -25,6 +25,46 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 
   <e>
     <lg>
+      <l pos="Det">мымдакӧ</l>
+      <stg>
+        <st>мымдакӧ</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="Det">кымынкӧ</t>
+        <t pos="Det">неуна</t>
+      </tg>
+      <xg>
+        <x>чулаліс мымдакӧ кад</x>
+        <xt xml:lang="kpv">колис мыйтакӧ кад</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Det">мӧдiк</l>
+      <stg>
+        <st>мӧдiк</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="Det">мӧд</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="Det">мукӧд</t>
+      </tg>
+      <xg>
+        <x>мӧдік кыла йӧз</x>
+        <xt xml:lang="kpv">мукӧд кывъя йӧз</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="Det">эта</l>
       <stg>
         <st>эта</st>

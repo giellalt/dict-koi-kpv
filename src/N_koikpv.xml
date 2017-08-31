@@ -25,6 +25,117 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 
   <e>
     <lg>
+      <l pos="N">гозъёрт</l>
+      <stg>
+        <st>гозъёрт</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg descr_trans="гозъяысь ӧтиыс" xml:lang="kpv">
+        <t pos="N">пӧв</t>
+      </tg>
+      <xg>
+        <x>кытӧн гозъёртыт?</x>
+        <xt xml:lang="kpv">кӧні пӧлыд?</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">каб</l>
+      <stg>
+        <st>каб</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg descr_trans="нинкӧм вылӧ" xml:lang="kpv">
+        <t pos="N">колодка</t>
+      </tg>
+      <xg>
+        <x>кертӧм кааб</x>
+        <xt xml:lang="kpv">ляспадъян кодь туша</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">катушка</l>
+      <stg>
+        <st>катушка</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="N">даддьӧн исласьӧм вылӧ йиа гӧра</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">кӧз</l>
+      <stg>
+        <st>кӧз</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="N">коз</t>
+      </tg>
+      <xg>
+        <x>коз голи</x>
+        <xt xml:lang="kpv">коз коль</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">вожмӧв</l>
+      <stg>
+        <st>вожмӧв</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="N">воськов</t>
+      </tg>
+      <xg>
+        <x>вожмӧв керны бӧрлань</x>
+        <xt xml:lang="kpv">бӧрӧ воськов вӧчны</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">юкӧв</l>
+      <stg>
+        <st>юкӧв</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="N">юков</t>
+      </tg>
+      <xg>
+        <x>веськыт юкӧла зонка</x>
+        <xt/>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">мӧдлун</l>
+      <stg>
+        <st>мӧдлун</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="N">аскомысь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="N">абыз</l>
       <stg>
         <st>абыз</st>

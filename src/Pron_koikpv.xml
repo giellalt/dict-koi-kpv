@@ -60,6 +60,77 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
   </e>
   <e>
     <lg>
+      <l pos="Pron">кӧда</l>
+      <stg>
+        <st>кӧда</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t>коді</t>
+      </tg>
+      <xg>
+        <x>кӧда мунӧ городас?</x>
+        <xt xml:lang="kpv">коді мунӧ карас?</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">кӧдакӧ</l>
+      <stg>
+        <st>кӧдакӧ</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t>кодкӧ</t>
+        <t>кутшӧмкӧ</t>
+      </tg>
+      <xg>
+        <x>кӧдакӧ васӧ ваялас</x>
+        <xt xml:lang="kpv">кодкӧ ва ваялас</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">кӧдна</l>
+      <stg>
+        <st>кӧдна</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t>кодъяс</t>
+      </tg>
+      <xg>
+        <x>а нійӧ косьмӧм кӧзоккесӧ, кӧдна эшӧ веськыта сулалӧны, чуть вӧрзьӧтышт кинат – сэк жӧ пӧрасӧ</x>
+        <src>(В.Баталов)</src>
+        <xt/>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">кӧдӧ</l>
+      <stg>
+        <st>кӧдӧ</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t>кодӧс</t>
+      </tg>
+      <xg>
+        <x>бордтыв, кӧдӧ неважын адззи берег дорісь</x>
+        <src>(В.Баталов)</src>
+        <xt xml:lang="kpv">ыджыд борд гӧн, кодӧс аддзи вадорысь</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="Pron">быдыс</l>
       <stg>
         <st>быдыс</st>

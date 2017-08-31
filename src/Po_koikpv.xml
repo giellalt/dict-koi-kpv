@@ -25,6 +25,62 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 
   <e>
     <lg>
+      <l pos="Po">коласын</l>
+      <stg>
+        <st>коласын</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="Po">костын</t>
+        <t pos="Po">пӧвстын</t>
+      </tg>
+      <xg>
+        <x>бур йӧз коласын</x>
+        <xt xml:lang="kpv">бур йӧз пӧвстын</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Po">коста</l>
+      <stg>
+        <st>коста</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="Po">дырйи</t>
+      </tg>
+      <xg>
+        <x>кӧдзан кад коста</x>
+        <xt xml:lang="kpv">кӧдзан кад дырйи</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Po">мыйись</l>
+      <stg>
+        <st>мыйись</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t pos="Po">мысти</t>
+      </tg>
+      <xg>
+        <x>недыр мыйись</x>
+        <xt xml:lang="kpv">недыр мысти</xt>
+      </xg>
+      <xg>
+        <x>чожа мыйись</x>
+        <xt xml:lang="kpv">ӧдйӧ, регыда</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="Po">дын</l>
       <stg>
         <st>дын</st>
@@ -32,7 +88,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
     </lg>
     <mg>
       <tg xml:lang="kpv">
-        <t>дін</t>
+        <t pos="Po">дін</t>
       </tg>
       <xg>
         <x>керку дыныс быдӧс чышкӧм</x>
@@ -49,8 +105,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
     </lg>
     <mg>
       <tg xml:lang="kpv">
-        <t>кымын</t>
-        <t>гӧгӧр</t>
+        <t pos="Po">кымын</t>
+        <t pos="Po">гӧгӧр</t>
       </tg>
       <xg>
         <x>ме джын час дырна ни видзӧті</x>
@@ -60,8 +116,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
     </mg>
     <mg>
       <tg xml:lang="kpv">
-        <t>дыра</t>
-        <t>кад чӧж</t>
+        <t pos="Po">дыра</t>
+        <t pos="Po">кад чӧж</t>
       </tg>
       <xg>
         <x>тэ дырна некин оз узь</x>
@@ -78,7 +134,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
     </lg>
     <mg>
       <tg xml:lang="kpv">
-        <t>дырйи</t>
+        <t pos="Po">дырйи</t>
       </tg>
       <xg>
         <x>тэ дырни</x>
@@ -95,7 +151,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
     </lg>
     <mg>
       <tg xml:lang="kpv">
-        <t>дырйи</t>
+        <t pos="Po">дырйи</t>
       </tg>
     </mg>
   </e>
