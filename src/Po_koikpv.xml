@@ -23,76 +23,80 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 
      </sourcenote></lics>
 
-
   <e>
     <lg>
-      <l pos="Pron">кин</l>
+      <l pos="Po">дын</l>
       <stg>
-        <st>кин</st>
+        <st>дын</st>
       </stg>
     </lg>
     <mg>
       <tg xml:lang="kpv">
-        <t pos="Pron">коді</t>
+        <t>дін</t>
       </tg>
       <xg>
-        <x>кинкӧт пантасит?</x>
-        <xt xml:lang="kpv">кодкӧд паныдасинныд?</xt>
+        <x>керку дыныс быдӧс чышкӧм</x>
+        <xt>керка діныс ставнас чышкӧма</xt>
       </xg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="Pron">кинкӧ</l>
+      <l pos="Po">дырна</l>
       <stg>
-        <st>кинкӧ</st>
+        <st>дырна</st>
       </stg>
     </lg>
     <mg>
       <tg xml:lang="kpv">
-        <t pos="Pron">кодкӧ</t>
+        <t>кымын</t>
+        <t>гӧгӧр</t>
       </tg>
       <xg>
-        <x>кинкӧ пырис керкуас</x>
-        <xt xml:lang="kpv">кодкӧ пырис керкаас</xt>
+        <x>ме джын час дырна ни видзӧті</x>
+        <src>(В.Баталов)</src>
+        <xt>ме час джын кымын нин видзӧді</xt>
+      </xg>
+    </mg>
+    <mg>
+      <tg xml:lang="kpv">
+        <t>дыра</t>
+        <t>кад чӧж</t>
+      </tg>
+      <xg>
+        <x>тэ дырна некин оз узь</x>
+        <xt>тэ дыра некод оз узь</xt>
       </xg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="Pron">быдыс</l>
+      <l pos="Po">дырни</l>
       <stg>
-        <st>быдыс</st>
+        <st>дырни</st>
       </stg>
     </lg>
     <mg>
       <tg xml:lang="kpv">
-        <t pos="Pron">быдӧн</t>
+        <t>дырйи</t>
       </tg>
       <xg>
-        <x>быдыс миян коласісь</x>
-        <xt xml:lang="kpv">быдӧн миян пиысь</xt>
+        <x>тэ дырни</x>
+        <xt>тэ дырйи</xt>
       </xg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="Pron">быдӧс</l>
+      <l pos="Po">дырня</l>
       <stg>
-        <st>быдӧс</st>
+        <st>дырня</st>
       </stg>
     </lg>
     <mg>
       <tg xml:lang="kpv">
-        <t pos="Pron">ставыс</t>
-        <t pos="Pron">став</t>
-        <t pos="Pron">быдтор</t>
+        <t>дырйи</t>
       </tg>
-      <xg>
-        <x>сы киись быдӧс петӧ</x>
-        <xt xml:lang="kpv">сы киын ставыс артмӧ</xt>
-      </xg>
     </mg>
   </e>
-
 </r>
